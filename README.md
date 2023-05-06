@@ -62,7 +62,7 @@ For detailed notes, see Research Log Week 28-30.
 ### Phase 12: Previous problems solved; finalizing future directions (May 4, 2023 meeting)
 For detailed notes, see Research Log May 4 meeting notes.
 - a major turning point; future directions:
-    - stop meddling with the JJ paper system, choose a well understood coupled system (Lorenz, Duffing, Chua, Rössler, etc.) to investigate
+    - stop meddling with the JJ paper system, choose well understood systems (Lorenz, Duffing, Chua, Rössler, etc.) to couple
     - use different tools to measure chaoticness and sync, including tools like phase space, Poincaré sections, error function, Lyapunov exponent, ordinal pattern analysis, permutation entropy
     - compare heatmaps generated from using different tools; find the pros and cons of each method, preferably focusing on permutation entropy and ordinal distribution
     - find the four regions: chaos & sync; chaos & non-sync; non-chaos & sync; non-chaos & non-sync
