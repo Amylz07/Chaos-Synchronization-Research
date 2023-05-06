@@ -35,4 +35,22 @@ For detailed notes, see Research Log Week 19.
     - region 2: chaos & sync
     - region 3: non-chaos & non-sync
     - regions 4: non-chaos & sync
-### Phase 7:
+### Phase 7: Truncated time series analysis (Feb. 16 - Mar. 1, 2023)
+For codes, see Phase 7 folder.
+For detailed notes, see Research Log Week 20-21.
+- same methods as before, applied on truncated time series, aiming to identify different patterns in a single time series (sometimes synchronization and non-synchronization co-exist in a single time series)
+    - didn't work well so abandoned
+### Phase 8: Problem identification, major turning point (Mar. 2, 2023 meeting)
+For detailed notes, see Research Log Mar. 2 2023 meeting notes.
+- realized the need to verify the chaoticness of the original system (the chaoticness of the original variables), not just the error function
+### Phase 9: Permutation entropy and ordinal pattern analysis on the original system (Mar. 2 - Apr. 6, 2023)
+For codes, see Phase 9 folder.
+For detailed notes, see Research Log Week 22-26.
+- permutation entropy and ordinal pattern analysis on x1, a variable in the original system, instead of investigating the error function
+- one week off because of Professor Arjendu's personal issues; another week off because of FP project week hiking
+- found results on chaos and sync regions different from those in the original JJ paper; although the tools I used and the author used were different, the chaos and sync regions should roughly be the same
+### Phase 10: Contacting JJ paper for code issues; identifying algorithm problem within ordpy Python package (Apr. 6-12, 2023)
+For codes, see Phase 10 folder.
+For detailed notes, see Research Log Week 27.
+- email to Professor Fossi (author of JJ paper) asking about code issues
+- ordpy package problem identification
