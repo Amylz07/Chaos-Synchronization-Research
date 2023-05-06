@@ -12,6 +12,7 @@ For detailed notes, see Learning Log.
 ### Phase 2: Paper reading & deciding on the non-linear system for investigation (Oct. 13 - Nov. 9, 2022)
 For codes, see Phase 2 folder.<br />
 For detailed notes, see Research Log Week 1-4.
+- originally, we wanted to use the system in the Memristive paper: Phase synchronization and lock between memristive circuits under field coupling,https://www.sciencedirect.com/science/article/abs/pii/S1434841119308477?via%3Dihub, but failed to reproduce its results, while not receiving clear reply from the author, so we abandoned this choice.
 - decided on ThermoElectricPhotoneuronsJJ paper: Phase synchronization between two thermo-photoelectric neurons coupled through a Josephson Junction, https://doi.org/10.1140/epjb/s10051-022-00324-x.
 ### Phase 3: Initial explorations of the system (Nov. 10 - Nov. 30, 2022)
 For codes, see Phase 3 folder.<br />
