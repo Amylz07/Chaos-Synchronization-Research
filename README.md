@@ -54,7 +54,6 @@ For detailed notes, see Research Log Week 22-26.
 - one week off because of Professor Arjendu's personal issues; another week off because of FP project week hiking
 - found results on chaos and sync regions different from those in the original JJ paper; although the tools I used and the author used were different, the chaos and sync regions should roughly be the same
 ### Phase 10: Contacting JJ paper for code issues; identifying algorithm problem within ordpy Python package (Apr. 6-12, 2023)
-For codes, see Phase 10 folder.<br />
 For detailed notes, see Research Log Week 27.
 - email to Professor Fossi (author of JJ paper) asking about code issues
 - ordpy package problem identification
