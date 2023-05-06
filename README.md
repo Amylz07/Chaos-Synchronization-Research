@@ -7,7 +7,8 @@ Professor Arjendu was my instructor during my 2022 Pioneer spring-through-summer
 During the research, I did all the coding parts by myself. The route of exploration was mainly based on my own interest. Professor Arjendu and I usually meet once a week, and during the meeting, he gives me guidance on general directions and advice on possible details to dig into.
 ## Detailed Research Progress
 Learning Log: https://docs.google.com/document/d/1cMRct2SPNWUhuQdZbRlBImRxNvTmaunooHLFpIfDOIY/edit?usp=sharing <br />
-Research Log: https://docs.google.com/document/d/10Ml6A02P4Moho7Yxsqxrzwp0BDFovbrAyAqDM7JaBT0/edit?usp=sharing
+Research Log: https://docs.google.com/document/d/10Ml6A02P4Moho7Yxsqxrzwp0BDFovbrAyAqDM7JaBT0/edit?usp=sharing <br />
+Other research materials: https://drive.google.com/drive/folders/1DGB2fYgHU9iFC-TmcKX4xCmPXjvKBYOr?usp=sharing
 ### Phase 1: Pre-reading and learning (Sep. 22 - Oct. 12, 2022)
 For detailed notes, see Learning Log.
 ### Phase 2: Paper reading & deciding on the non-linear system for investigation (Oct. 13 - Nov. 9, 2022)
