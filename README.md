@@ -54,3 +54,8 @@ For codes, see Phase 10 folder.
 For detailed notes, see Research Log Week 27.
 - email to Professor Fossi (author of JJ paper) asking about code issues
 - ordpy package problem identification
+### Phase 11: Fixing algorithm issue (Apr. 13 - May 3, 2023)
+For codes, see Phase 11 folder.
+For detailed notes, see Research Log Week 28-30.
+- new code for ordinal distribution found and edited
+- new code tested
