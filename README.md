@@ -1,6 +1,6 @@
 # Chaos-Synchronization-Research
 ## Description
-This research is on developing a new methodology to investigation transitions in chaos synchronization.
+This research is on developing a new methodology to investigate transitions in chaos synchronization.
 ## Information
 Instructor: Professor Arjendu K. Pattanayak, https://people.carleton.edu/~arjendu/, https://www.linkedin.com/in/arjendu-k-pattanayak-0686499/.<br />
 Professor Arjendu was my instructor during my 2022 Pioneer spring-through-summer research on Non-Linear Dynamics and Chaos. I contacted him after Pioneer program and continued to do research with him until now.<br />
